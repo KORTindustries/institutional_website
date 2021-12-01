@@ -8,3 +8,5 @@
 ==> Added Website components at Nov 29, 2021 = 13:24
 
 ==> Managing Each Section at Dec 1, 2021 = 14:35
+
+==> connecting through a test production server (netlify) at Dec 1, 2021 = 20:03
