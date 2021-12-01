@@ -1019,9 +1019,16 @@ p {
   color: var(--white);
   font-weight: 600;
 }
+
+.header-eight .video-button .text:hover {
+  text-shadow: 2px 2px 4px #000000;
+}
 .header-eight .video-button .icon-btn {
   background: var(--white);
   color: var(--primary);
+}
+.header-eight .video-button .icon-btn:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0,1); 
 }
 
 /*===========================
