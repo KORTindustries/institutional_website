@@ -521,6 +521,10 @@ p {
   border-bottom: solid 3px white;  
 }
 
+.hometest.active{
+  border-bottom: solid 3px white;  
+
+}
 
 .navbar-area.navbar-nine .navbar .navbar-nav .nav-item a.active {
   opacity: 1;
